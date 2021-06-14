@@ -1,4 +1,4 @@
-FROM node:14.10.0
+FROM node:14.17.0
 
 #Update container and install packages
 RUN ["apt-get", "update"]
